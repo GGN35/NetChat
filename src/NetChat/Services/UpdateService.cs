@@ -18,7 +18,7 @@ public sealed record UpdateInfo(Version Version, string DownloadUrl, long Size, 
 /// </summary>
 public sealed class UpdateService
 {
-    private const string DefaultReleaseUrl = "https://api.github.com/repos/GokdenizGunay/NetChat/releases/latest";
+    private const string DefaultReleaseUrl = "https://api.github.com/repos/GGN35/NetChat/releases/latest";
 
     /// <summary>Denetlenen adres; yerel deneme için NETCHAT_UPDATE_FEED ortam değişkeniyle değiştirilebilir.</summary>
     private static string LatestReleaseUrl => Environment.GetEnvironmentVariable("NETCHAT_UPDATE_FEED") ?? DefaultReleaseUrl;

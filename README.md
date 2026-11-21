@@ -19,7 +19,7 @@ Yerel ağdaki diğer cihazlarla sunucusuz, şifreli mesajlaşma. Windows 10 ve W
 
 ## Kurulum
 
-[Releases](https://github.com/GokdenizGunay/NetChat/releases) sayfasından `NetChat.exe` dosyasını indirip çalıştırın. Kurulum gerekmez.
+[Releases](https://github.com/GGN35/NetChat/releases) sayfasından `NetChat.exe` dosyasını indirip çalıştırın. Kurulum gerekmez.
 
 - **SmartScreen:** "Windows bilgisayarınızı korudu" uyarısı çıkarsa *Ek bilgi › Yine de çalıştır*'a tıklayın.
 - **Güvenlik duvarı:** İlk açılışta Windows ağ erişimi için izin isteyebilir. Diğer cihazların sizi görebilmesi için **özel ağlarda** izin verin.
